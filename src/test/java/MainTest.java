@@ -13,7 +13,7 @@ public class MainTest {
  @Test
     public void testMultiplyFail() {
      Main main = new Main();
-     assertEquals(356, Main.multiply(7, 5));
+     assertEquals(35, Main.multiply(7, 5));
 
     }
 
